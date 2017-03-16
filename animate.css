@@ -1,26 +1,32 @@
 #left{
+	font-size: 12px;
 	position: relative;
 	top: 200px;
 	right: 500px;
 	height: 100px;
 	width: 400px;
 	border: solid;
+	font-family: 'Baloo Bhaina', cursive;
 }
 #right{
+	font-size: 12px;
 	position: relative;
 	top: 750px;
 	left: 600px;
 	height: 100px;
 	width: 400px;
-	border: solid;	
-}
+	border: solid;
+	font-family: 'Baloo Bhaina', cursive;
+	}
 #bottom{
+	font-size: 12px;
 	position: relative;
 	bottom: 110px;
 	left: 1500px;
 	border: solid;
 	height: 100px;
 	width: 400px;
+	font-family: 'Baloo Bhaina', cursive;
 }
 button{
 	position: relative;
